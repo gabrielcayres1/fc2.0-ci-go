@@ -9,8 +9,5 @@ jobs:
         with: 
           go-version: 1.15
       - run: go test
-<<<<<<< HEAD
       - run: go run math.go
-=======
       - run: go run math.go
->>>>>>> 32f4aa2aa68621d28678e6cf568fec8349d2c058
