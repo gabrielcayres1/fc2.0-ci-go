@@ -28,4 +28,4 @@ jobs:
           tags: gabrielcayres/fc2.0-ci-go:latest  
           build-args:
             arg1=value1
-            arg2=value2
+          
